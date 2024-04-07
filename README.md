@@ -52,3 +52,8 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+```bash
+pnpm add --save-dev eslint typescript-eslint eslint-plugin-astro eslint-plugin-jsx-a11y
+pnpm add --save-dev prettier prettier-plugin-astro
+```
