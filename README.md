@@ -55,5 +55,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 ```bash
 pnpm add --save-dev eslint typescript-eslint eslint-plugin-astro eslint-plugin-jsx-a11y
-pnpm add --save-dev prettier prettier-plugin-astro
+pnpm add --save-dev prettier prettier-plugin-astro prettier-plugin-tailwindcss
+npx astro add tailwind
 ```
